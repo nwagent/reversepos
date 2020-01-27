@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.reversepos.com	TRUE	/	FALSE	1999999999	0f05596f-ff77-4189-90c1-a93c81d76918_lang	en
+
