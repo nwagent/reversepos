@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Jan 2020 17:05:18 at https://www.reversepos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.reversepos.com/ -O1 "C:\reversepos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:12	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.reversepos.com/)
+17:07:28	Warning: 	Retry after error -4 (Connect Error) at link https://localhost:9999/wo/_css/_images/controls.png (from https://www.reversepos.com/csslint.ashx?type=all&id=188419cb-a79a-4835-b989-aba22d6c3f40&animation=1&bust=20191211222944960)
+17:07:31	Warning: 	Retry after error -4 (Connect Error) at link https://localhost:9999/wo/_css/_images/controls.png (from https://www.reversepos.com/csslint.ashx?type=all&id=188419cb-a79a-4835-b989-aba22d6c3f40&animation=1&bust=20191211222944960)
+17:07:33	Error: 	"Connect Error" (-4) after 2 retries at link https://localhost:9999/wo/_css/_images/controls.png (from https://www.reversepos.com/csslint.ashx?type=all&id=188419cb-a79a-4835-b989-aba22d6c3f40&animation=1&bust=20191211222944960)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 15 seconds : 65 links scanned, 60 files written (8971647 bytes overall), 17 files updated [881648 bytes received at 6530 bytes/sec], 4017184 bytes transferred using HTTP compression in 17 files, ratio 21%, 1.1 requests per connection
+(2 errors, 2 warnings, 0 messages)
